@@ -7,7 +7,6 @@
 
 - 📄 See my portfolio website [milossturanovic.online](milossturanovic.online)
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
