@@ -9,7 +9,7 @@
 <br></div>  
   
 
-<div align="center">🌱 I’m currently learning React native, Tailwind.</div>  
+<div align="center">🌱 I’m currently learning React and Tailwind.</div>  
   
 
 <div align="center">📫 How to reach me sturanovic.ms@gmail.com</div>  
