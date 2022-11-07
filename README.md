@@ -15,7 +15,7 @@
 <div align="center">📫 How to reach me sturanovic.ms@gmail.com</div>  
   
 
-<div align="center">📄 See my portfolio website at milossturanovic.online</div>  
+<div align="center">📄 See my portfolio website at milossturanovic.com</div>  
   
 
 <br/>  
