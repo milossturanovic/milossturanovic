@@ -85,7 +85,7 @@
 <div align="center">
 
 
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=milossturanovic&theme=react&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=milossturanovic&count_private=true&theme=tokyonight&showicons=true)]()
 ![](https://github-readme-streak-stats.herokuapp.com/?user=milossturanovic&theme=react&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=milossturanovic&theme=react&hide_border=true&include_all_commits=true&count_private=false)
