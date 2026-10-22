@@ -1,14 +1,31 @@
 # Milos Sturanovic
 
-**Senior Frontend Developer** · Real estate web · [milossturanovic.com](https://milossturanovic.com/)
+**Senior Frontend Developer** · Real estate web · Montenegro  
+[Portfolio](https://milossturanovic.com/) · [Email](mailto:sturanovic.ms@gmail.com)
 
-I build high-converting websites for the real estate industry — custom WordPress and modern React/Next.js stacks. Currently at [AgentFire](https://agentfire.com/), shipping production sites for agencies and brokers.
+> High-converting websites for the real estate industry — WordPress and React/Next.js.
 
-6+ years · 50+ projects shipped · based in Montenegro · work with clients in the US and Europe.
+I ship production sites end to end: custom themes, plugins, WooCommerce, and modern frontends. Clear communication and precise delivery are how I keep clients around for the long run.
 
-### What I work with
+Currently **Senior Frontend Developer at [AgentFire](https://agentfire.com/)**, building real estate solutions for agencies and brokers.
 
-`TypeScript` `React` `Next.js` `WordPress` `PHP` `Node.js` `MySQL` `PostgreSQL` `Supabase` `Sass` `Tailwind` `Git` `Docker` `Vercel`
+---
+
+### Experience & impact
+
+- **6+ years** frontend-focused, remote work with international teams  
+- **50+ projects** shipped and maintained in production  
+- **Clients across** the United States, Lithuania, Slovenia, and Montenegro  
+- Full ownership: Git → deploy → server setup → email systems when needed  
+- Performance work on e-commerce and lead-gen sites (faster loads, clearer conversion paths)  
+- AI in the workflow (ChatGPT, Claude) for speed — not as a substitute for shipping solid code
+
+### Focus
+
+- **Frontend / full stack:** React, Next.js, TypeScript, JavaScript, HTML/CSS, PHP, Node.js  
+- **WordPress:** custom themes, plugins, WooCommerce  
+- **Data & infra:** MySQL, PostgreSQL, Supabase, Docker, Vercel, Git  
+- **Also day-to-day:** Sass, Tailwind, Redux
 
 ### Certifications
 
@@ -27,6 +44,8 @@ I build high-converting websites for the real estate industry — custom WordPre
 
 </div>
 
-### Contact
+### Connect
 
-[Portfolio](https://milossturanovic.com/) · [Email](mailto:sturanovic.ms@gmail.com) · [GitHub](https://github.com/milossturanovic)
+[![Website](https://img.shields.io/badge/Portfolio-milossturanovic.com-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://milossturanovic.com/)
+[![Email](https://img.shields.io/badge/Email-sturanovic.ms@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sturanovic.ms@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-milossturanovic-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/milossturanovic)
