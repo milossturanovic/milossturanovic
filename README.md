@@ -26,7 +26,7 @@ Currently, I’m a Senior Frontend Developer at AgentFire, where I focus on buil
 
 <table>
   <tr>
-    <td valign="top" width="33%">
+    <td valign="top" width="33.33%">
 
 ### 🌍 International Clients
 - United States
@@ -35,7 +35,7 @@ Currently, I’m a Senior Frontend Developer at AgentFire, where I focus on buil
 - Montenegro
 
     </td>
-    <td valign="top" width="33%">
+    <td valign="top" width="33.33%">
 
 ### 🗓️ Experience: **6+** years
 - Frontend-focused development
@@ -46,7 +46,7 @@ Currently, I’m a Senior Frontend Developer at AgentFire, where I focus on buil
 - Remote, international collaboration
 
     </td>
-    <td valign="top" width="33%">
+    <td valign="top" width="33.33%">
 
 ### 🚀 Projects: **50+** shipped
 - Web projects & platforms
