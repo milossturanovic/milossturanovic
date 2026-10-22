@@ -39,7 +39,7 @@ Currently, I’m a Senior Frontend Developer at AgentFire, where I focus on buil
 - Agile methodologies experience  
 - Experienced in remote, international collaboration  
 
-### 🚀 Projects Delivered in Production: **90+**
+### 🚀 Projects Delivered in Production: **50+**
 
 - Web projects & platforms  
 - Client & internal products  
@@ -50,7 +50,7 @@ Currently, I’m a Senior Frontend Developer at AgentFire, where I focus on buil
 
 ---
 
-### 🏢 Experience
+### 🌍 Location
 
 - Based in **Montenegro**
 
