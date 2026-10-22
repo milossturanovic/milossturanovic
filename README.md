@@ -6,19 +6,19 @@
 
 ## Software Engineer
 
-> I create high-converting websites for the real estate industry.
+> I build high-converting real estate websites and business solutions.
 
-With over 50 projects under my belt and a 95% client retention rate, clear communication and precise execution are my top priorities. I make sure my clients always know what’s happening and how their projects are progressing.
+50+ client projects shipped, with a focus on clear communication, pixel-perfect implementation, and results you can measure.
 
-I use AI tools like ChatGPT and Claude to speed up my workflow. This approach cuts development time by 60% and boosts site performance by 40%. Plus, I help clients see a 30%+ increase in conversion rates.
+My workflow is AI-augmented — ChatGPT, Claude, and Cursor — so I move faster without cutting corners on architecture, code quality, or delivery.
 
-Here’s what I specialize in:
-• Full stack development: React, Next.js, JavaScript, TypeScript, HTML5, CSS3, PHP, MySQL, Node.js  
-• WordPress: custom themes, plugin development, and WooCommerce  
-• End-to-end project management: from Git to server setup and email systems  
-• Performance optimization for e-commerce sites
+Here’s what I cover:
+• Full stack: React, Next.js, JavaScript, TypeScript, HTML/CSS, PHP, MySQL, Node.js  
+• WordPress: custom themes, plugins, and WooCommerce  
+• End-to-end delivery: Git, deploy, servers, DNS, hosting, and email systems  
+• Performance and e-commerce optimization for real estate and lead-gen sites  
 
-Currently, I’m a Senior Frontend Developer at AgentFire, where I focus on building real estate solutions. If you want to chat about web development or AI in tech, feel free to reach out: sturanovic.ms@gmail.com.
+Currently I’m a Senior Frontend Developer at AgentFire, building real estate solutions. Want to talk web or AI in tech? sturanovic.ms@gmail.com
 
 ---
 
