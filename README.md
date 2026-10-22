@@ -1,99 +1,60 @@
+# 👨‍💻 Milos Sturanovic
 
-  
+[![Profile Views](https://komarev.com/ghpvc/?username=milossturanovic&color=blue&style=flat-square)](https://github.com/milossturanovic)
 
-# <div align="center">Hi 👋, I'm Milos Sturanovic 💻</div>  
-  
+## Software Engineer
 
-<div align="center">From the beginning of my journey as a web developer in 2016, I’ve done remote work for agencies, businesses, and collaborated with talented people to create websites that people love to use. I’m quietly confident, naturally curious, and perpetually working on improving my skills one design problem at a time.
+> I create high-converting websites for the real estate industry.
 
-<br></div>  
-  
+With over 50 projects under my belt and a 95% client retention rate, clear communication and precise execution are my top priorities. I make sure my clients always know what’s happening and how their projects are progressing.
 
-<div align="center">🌱 I’m currently learning React and Tailwind.</div>  
-  
+I use AI tools like ChatGPT and Claude to speed up my workflow. This approach cuts development time by 60% and boosts site performance by 40%. Plus, I help clients see a 30%+ increase in conversion rates.
 
-<div align="center">📫 How to reach me sturanovic.ms@gmail.com</div>  
-  
+Here’s what I specialize in:
+• Full stack development: React, Next.js, JavaScript, TypeScript, HTML5, CSS3, PHP, MySQL, Node.js
+• WordPress: custom themes, plugin development, and WooCommerce
+• End-to-end project management: from Git to server setup and email systems
+• Performance optimization for e-commerce sites
 
-<div align="center">📄 See my portfolio website at milossturanovic.com</div>  
-  
+Currently, I’m a Senior Frontend Developer at AgentFire, where I focus on building real estate solutions. If you want to chat about web development or AI in tech, feel free to reach out: yourname@email.com.
 
-<br/>  
+### 🏢 Experience
 
+- Currently at ****
+- Based in **Montenegro**
 
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
+### 🛠️ Tech Stack
 
+![Javascript](https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white) ![Typescript](https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-333?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-333?style=for-the-badge&logo=css3&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-333?style=for-the-badge&logo=wordpress&logoColor=white) ![WooCommerce](https://img.shields.io/badge/WooCommerce-333?style=for-the-badge&logo=woocommerce&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
+### 📚 Currently Learning
 
-### Frontend  
-<div align="center">  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
-<a href="https://jquery.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" /></a>  
-<a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" /></a>  
-</div>
+### 🤝 Looking to Collaborate
 
-</td><td valign="top" width="33%">
+### 💬 Ask Me About
 
+### 📊 GitHub Statistics
 
-
-### Backend  
-<div align="center">  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-<a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-### Other tools and frameworks
-<div align="center">  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://wordpress.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" /></a>  
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
-<a href="https://woocommerce.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/woocommerce.png" alt="WooCommerce" height="50" /></a>  
-<a href="https://www.apachefriends.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="50" /></a>  
-</div>
-
-</td></tr></table>  
-
-<br/>  
-
-
-## Connect with me  
-<div align="center">
-<a href="https://github.com/milossturanovic" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/milos-sturanovic/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
-
-<br/>  
-
-
-## Github Stats  
 <div align="center">
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=milossturanovic&theme=react&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=milossturanovic&theme=react&hide_border=true&include_all_commits=true&count_private=false)
-	
-	
-	
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=milossturanovic&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=milossturanovic&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117)
 
+</div>
 
-	
-	
+### 🌐 Connect with Me
 
-</div>  
+[![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://milossturanovic.com/) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sturanovic.ms@gmail.com) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/milossturanovic)
 
+### ⚡ Fun Fact
+
+I love Coffee
+
+---
+
+<div align="center">
+
+**Thanks for visiting!** 🙏
+
+</div>
