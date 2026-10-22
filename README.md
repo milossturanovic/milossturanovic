@@ -24,29 +24,41 @@ Currently, I’m a Senior Frontend Developer at AgentFire, where I focus on buil
 
 ## 🏆 Achievements
 
-### 🌍 Worked with International Clients
+<table>
+  <tr>
+    <td valign="top" width="33%">
+
+### 🌍 International Clients
 - United States
 - Lithuania
 - Slovenia
 - Montenegro
 
-### 🗓️ Years of Professional Experience: **6+**
+    </td>
+    <td valign="top" width="33%">
 
-- Frontend-focused development  
-- Real production environments  
-- Long-term client work  
-- Continuous learning and upskilling  
-- Agile methodologies experience  
-- Experienced in remote, international collaboration  
+### 🗓️ Experience: **6+** years
+- Frontend-focused development
+- Real production environments
+- Long-term client work
+- Continuous learning and upskilling
+- Agile methodologies experience
+- Remote, international collaboration
 
-### 🚀 Projects Delivered in Production: **50+**
+    </td>
+    <td valign="top" width="33%">
 
-- Web projects & platforms  
-- Client & internal products  
-- Shipped, optimized, and maintained  
-- Modern UI/UX best practices  
-- Collaborative team delivery  
-- Agile & rapid iteration cycles  
+### 🚀 Projects: **50+** shipped
+- Web projects & platforms
+- Client & internal products
+- Shipped, optimized, and maintained
+- Modern UI/UX best practices
+- Collaborative team delivery
+- Agile & rapid iteration cycles
+
+    </td>
+  </tr>
+</table>
 
 ---
 
