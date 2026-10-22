@@ -31,9 +31,11 @@ Currently, I’m a Senior Frontend Developer at AgentFire, where I focus on buil
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=milossturanovic&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=milossturanovic&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&include_all_commits=true&count_private=true&cache_seconds=1800&v=20261022)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=milossturanovic&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=milossturanovic&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&langs_count=8&cache_seconds=1800&v=20261022)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=milossturanovic&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=f78166&currStreakLabel=58a6ff&v=20261022)
 
 </div>
 
