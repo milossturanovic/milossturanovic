@@ -78,17 +78,8 @@ Currently, I’m a Senior Frontend Developer at AgentFire, where I focus on buil
 
 ## 📜 Licenses & Certifications
 
-<div align="left">
-
-<a href="https://www.freecodecamp.org/certification/milos1/javascript-algorithms-and-data-structures" target="_blank">
-  
-</a>
-
-<br>
-<strong>JavaScript Algorithms and Data Structures</strong> — freeCodeCamp  
-<em>Issued Jul 2020</em>
-
-</div>
+- **[JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/milos1/javascript-algorithms-and-data-structures)** — freeCodeCamp  
+  Issued Jul 2020
 
 ### 📊 GitHub Statistics
 
