@@ -31,7 +31,18 @@ Currently, I’m a Senior Frontend Developer at AgentFire, where I focus on buil
 
 <div align="center">
 
+<!--
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=milossturanovic&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&include_all_commits=true&count_private=true&cache_seconds=1800&v=20261022)
+-->
+
+<!-- 
+  If the GitHub Stats card isn't showing, 
+  it might be a temporary issue with the vercel app or GitHub API limits.
+  You can try reloading, or use an alternative like shields.io or a local stats generator.
+  Example alternative:
+-->
+
+<img src="https://github-readme-stats.vercel.app/api?username=milossturanovic&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=milossturanovic&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&langs_count=8&cache_seconds=1800&v=20261022)
 
