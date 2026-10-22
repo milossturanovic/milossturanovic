@@ -105,10 +105,6 @@ Currently, I’m a Senior Frontend Developer at AgentFire, where I focus on buil
 
 [![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://milossturanovic.com/) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sturanovic.ms@gmail.com) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/milossturanovic)
 
-### ⚡ Fun Fact
-
-I love Coffee
-
 ---
 
 <div align="center">
