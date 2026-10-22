@@ -76,10 +76,19 @@ Currently, I’m a Senior Frontend Developer at AgentFire, where I focus on buil
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
-### 📜 Licenses & Certifications
+## 📜 Licenses & Certifications
 
-- **[JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/milos1/javascript-algorithms-and-data-structures)** — freeCodeCamp  
-  Issued Jul 2020
+<div align="left">
+
+<a href="https://www.freecodecamp.org/certification/milos1/javascript-algorithms-and-data-structures" target="_blank">
+  <img src="https://img.shields.io/badge/JavaScript%20Algorithms%20&%20Data%20Structures-17C95B?style=for-the-badge&logo=freecodecamp&logoColor=white" alt="JavaScript Algorithms and Data Structures Certification" />
+</a>
+
+<br>
+<strong>JavaScript Algorithms and Data Structures</strong> — freeCodeCamp  
+<em>Issued Jul 2020</em>
+
+</div>
 
 ### 📊 GitHub Statistics
 
