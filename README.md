@@ -80,7 +80,9 @@ Currently, I’m a Senior Frontend Developer at AgentFire, where I focus on buil
 
 <div align="left">
 
-[![JavaScript Algorithms & Data Structures Certification](https://img.shields.io/badge/JavaScript%20Algorithms%20&%20Data%20Structures-42B9F5?style=for-the-badge&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/certification/milos1/javascript-algorithms-and-data-structures)
+<a href="https://www.freecodecamp.org/certification/milos1/javascript-algorithms-and-data-structures" target="_blank">
+  <img src="https://img.shields.io/badge/JavaScript%20Algorithms%20&%20Data%20Structures-?style=for-the-badge&logo=freecodecamp" alt="JavaScript Algorithms and Data Structures Certification" />
+</a>
 
 <br>
 <strong>JavaScript Algorithms and Data Structures</strong> — freeCodeCamp  
